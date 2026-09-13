@@ -23,11 +23,16 @@ ENV/
 .env
 .env.*
 
+# Personal learning materials
+guides/
+
 # Data / outputs
-data/raw/
-output/
-*.csv
-!data/sample/*.csv
+data/raw/*
+!data/raw/.gitkeep
+
+# Streamlit local files
+.streamlit/secrets.toml
+.streamlit/cache/
 
 # Notebook outputs
 *.nbconvert.ipynb
@@ -46,6 +51,10 @@ htmlcov/
 
 # Logs
 *.log
+
+# Local tooling
+.ruff_cache/
+.mypy_cache/
 
 # OS files
 Thumbs.db
