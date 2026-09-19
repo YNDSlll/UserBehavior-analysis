@@ -8,7 +8,7 @@
 
 ### 0. 在线演示（无需安装任何东西）
 
-浏览器直接打开：https://userbehavior-analysis.streamlit.app/（Streamlit Cloud 托管）
+浏览器直接打开：https://userbehavior-analysis.streamlit.app/   （Streamlit Cloud 托管）
 
 ### 1. 创建环境并安装依赖
 
