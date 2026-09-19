@@ -3,6 +3,7 @@
 ====================================================
 是什么：一个单页数据看板，把项目 M0~M4 的分析结果（指标、图表、模型）集中展示。
 怎么跑：在项目根目录执行  streamlit run app.py  ，浏览器访问 http://localhost:8501
+在线版：https://userbehavior-analysis.streamlit.app/ （GitHub 仓库推送后 Streamlit Cloud 自动部署）
 数据来源：output/app_data/ 目录下的预计算聚合 CSV（由 notebooks/M5_准备演示数据.py 生成）。
          App 本身不做任何重计算——"重活提前干、展示端只读结果"，保证页面秒开。
 """

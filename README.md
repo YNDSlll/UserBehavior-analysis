@@ -6,6 +6,10 @@
 
 ## 快速开始
 
+### 0. 在线演示（无需安装任何东西）
+
+浏览器直接打开：https://userbehavior-analysis.streamlit.app/（Streamlit Cloud 托管）
+
 ### 1. 创建环境并安装依赖
 
 建议使用 Python 3.10 或更高版本：
