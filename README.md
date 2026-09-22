@@ -6,7 +6,7 @@
 > 
 > **工具**：Python（pandas / scikit-learn / matplotlib）· Streamlit
 > 
-> **在线看板演示**：https://userbehavior-analysis.streamlit.app/
+> **可视化演示**：https://userbehavior-analysis.streamlit.app/
 > 
 > **单文件版报告**：[`项目总结报告.md`](项目总结报告.md)
 
