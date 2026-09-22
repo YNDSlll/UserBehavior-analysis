@@ -1,9 +1,13 @@
 # 电商用户行为分析与流失预测 · 项目总结报告
 
 > **数据**：阿里天池 UserBehavior（采样 100 万条行为日志，9,739 个用户）
+> 
 > **时间窗**：2017-11-25 ~ 2017-12-03（北京时间，9 天）
+> 
 > **工具**：Python（pandas / scikit-learn / matplotlib）· Streamlit
+> 
 > **在线看板演示**：https://userbehavior-analysis.streamlit.app/
+> 
 > **单文件版报告**：[`项目总结报告.md`](项目总结报告.md)
 
 ---
